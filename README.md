@@ -1,12 +1,17 @@
 # lightdm-webkit2-mockup
-Mockup files to be used when creating lightdm-webkit2 themes and demos.
+Mockup file to be used when creating lightdm-webkit2 themes and demos.
 
-# Original source
-Sourced from : https://github.com/pedropenna/musfealle
+# Usage
+	<script src="https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/master/lighdm-mock.js"></script>
 
-Then put through : http://js2.coffee/
+# Reference
+[https://web.archive.org/web/20190524055535/https://doclets.io/Antergos/lightdm-webkit2-greeter/master]
 
-Finaly edited and compiled with additinal files in to bin/lightdm-mock.js
+# Credits
 
-# License
-see : LICENSE and ORIGINAL_LICENSE
+blont          : [https://freeimages.com/photographer/blont-45994]
+
+Caroline Kjall : [https://freeimages.com/photographer/caztaz-57607]
+
+Ben Earwicker Mod Fam Global, Boise, ID [https://modfam.global/]
+

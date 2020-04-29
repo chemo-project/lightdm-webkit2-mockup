@@ -54,7 +54,7 @@ languages = [
 	name: "English(UK)"
 	territory: "UK"
 ]
-layout = [
+layouts = [
 	name				: "test-layout"
 	description			: "test-layout for testing."
 	short_description	: "test-layout-terretory"

@@ -17,8 +17,8 @@ window.lightdm =
 	shutdown			: () -> console.log 'shutdown was called!'
 	suspend				: () -> console.log 'suspend was called!'
 
-	cancel_authention	: cancel_authention
-	cancel_autologin	: cancel_autologin
+	cancel_authentication	: cancel_authentication
+	cancel_autologin		: cancel_autologin
 
 	default_session		: sessions[0].name
 	get_hint			: (name) -> null

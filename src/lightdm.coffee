@@ -1,4 +1,4 @@
-lightdm =
+window.lightdm =
 	authenticate			: authenticate
 	authenticate_as_guest	: authenticate_as_guest
 	authentication_user		: this._username

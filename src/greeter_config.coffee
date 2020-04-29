@@ -1,4 +1,4 @@
-greeter_config =
+window.greeter_config =
 	branding:
 		background_images	: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/wallpaper.jpg"
 		logo				: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/logo.png"

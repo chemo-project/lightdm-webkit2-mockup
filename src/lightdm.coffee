@@ -41,7 +41,7 @@ window.lightdm =
 	respond				: (response) -> console.log "lightdm.respond is not implemented by Mock"
 
 	select_guest_hint	: false
-	select_user_hint	: users[0].name
+	select_user_hint	: users[0].username
 
 	sessions			: sessions
 

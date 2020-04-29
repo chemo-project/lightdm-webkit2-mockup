@@ -9,9 +9,13 @@ Mockup file to be used when creating lightdm-webkit2 themes and demos.
 
 # Credits
 
-blont          : [https://freeimages.com/photographer/blont-45994]
+Stephan Seeber (wallpaper.jpg) : [https://www.pexels.com/@stywo]
 
-Caroline Kjall : [https://freeimages.com/photographer/caztaz-57607]
+linux.org (logo.svg/esp)       : [https://seeklogo.com/vector-logo/84508/linux-tux]
 
-Ben Earwicker Mod Fam Global, Boise, ID [https://modfam.global/]
+blont  (profile1.jpg)          : [https://freeimages.com/photographer/blont-45994]
+
+Caroline Kjall  (profile2.jpg) : [https://freeimages.com/photographer/caztaz-57607]
+
+Ben Earwicker (profile3.jpg)   : [https://modfam.global/]
 

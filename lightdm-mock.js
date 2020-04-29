@@ -138,7 +138,7 @@
     suspend: function() {
       return console.log('suspend was called!');
     },
-    cancel_authention: cancel_authention,
+    cancel_authentication: cancel_authentication,
     cancel_autologin: cancel_autologin,
     default_session: sessions[0].name,
     get_hint: function(name) {

@@ -181,20 +181,23 @@
     bind_this: function() {
       return console.log("theme_utils.bind_this is not implemented by Mock");
     },
-    dirlist: function() {
-      return console.log("theme_utils.dirlist is not implemented by Mock");
-    },
     esc_html: function() {
       return console.log("theme_utils.esc_html is not implemented by Mock");
     },
     get_current_localized_time: function() {
       return "12:34:56";
+    },
+    dirlist: function(path) {
+      if (path === greeter_config.branding.background_images) {
+        return [path + "wallpaper1.jpg", path + "wallpaper2.jpg"];
+      }
+      return console.log("theme_utils.dirlist is not implemented by Mock");
     }
   };
 
   window.greeter_config = {
     branding: {
-      background_images: "mock/res/wallpaper.jpg",
+      background_images: "mock/res/wallpapers/",
       logo: "mock/res/logo.svg",
       user_image: "mock/res/profile.svg"
     },

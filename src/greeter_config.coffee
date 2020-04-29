@@ -1,6 +1,6 @@
 window.greeter_config =
 	branding:
-		background_images	: "mock/res/wallpaper.jpg"
+		background_images	: "mock/res/wallpapers/"
 		logo				: "mock/res/logo.svg"
 		user_image			: "mock/res/profile.svg"
 	greeter:

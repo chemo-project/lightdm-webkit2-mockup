@@ -1,8 +1,8 @@
 window.greeter_config =
 	branding:
-		background_images	: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/wallpaper.jpg"
-		logo				: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/logo.png"
-		user_image			: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/profile.png"
+		background_images	: "mock/res/wallpaper.jpg"
+		logo				: "mock/res/logo.svg"
+		user_image			: "mock/res/profile.svg"
 	greeter:
 		debug_mode			: true
 		detect_theme_errors	: null

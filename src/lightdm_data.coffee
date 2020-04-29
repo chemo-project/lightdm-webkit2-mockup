@@ -1,7 +1,7 @@
 users = [
 	display_name	: "Eagle Mcfly"
 	home_directory	: "/home/mcfly"
-	image			: "https://images.freeimages.com/images/large-previews/465/hawk-close-up-1317174.jpg"
+	image			: "https://github.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/profile1.jpg"
 	language		: "en_US"
 	layout			: null
 	logged_in		: false
@@ -10,7 +10,7 @@ users = [
 ,
 	display_name	: "Sparky Dogson"
 	home_directory	: "/home/sparky"
-	image			: "https://images.freeimages.com/images/large-previews/1ca/dog-close-ups-1-1365993.jpg"
+	image			: "https://github.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/profile2.jpg"
 	language		: "en_UK"
 	layout			: null
 	logged_in		: false
@@ -19,7 +19,7 @@ users = [
 ,
 	display_name	: "Elicha Deering"
 	home_directory	: "/home/deering"
-	image			: "https://images.freeimages.com/images/large-previews/08e/up-close-personal-2-1359478.jpp"
+	image			: "https://github.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/profile3.jpg"
 	language		: "en_US"
 	layout			: null
 	logged_in		: false

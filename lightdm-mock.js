@@ -6,7 +6,7 @@
     {
       display_name: "Eagle Mcfly",
       home_directory: "/home/mcfly",
-      image: "https://images.freeimages.com/images/large-previews/465/hawk-close-up-1317174.jpg",
+      image: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/profile1.jpg",
       language: "en_US",
       layout: null,
       logged_in: false,
@@ -16,7 +16,7 @@
     {
       display_name: "Sparky Dogson",
       home_directory: "/home/sparky",
-      image: "https://images.freeimages.com/images/large-previews/1ca/dog-close-ups-1-1365993.jpg",
+      image: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/profile2.jpg",
       language: "en_UK",
       layout: null,
       logged_in: false,
@@ -26,7 +26,7 @@
     {
       display_name: "Elicha Deering",
       home_directory: "/home/deering",
-      image: "https://images.freeimages.com/images/large-previews/08e/up-close-personal-2-1359478.jpp",
+      image: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/profile3.jpg",
       language: "en_US",
       layout: null,
       logged_in: false,
@@ -194,9 +194,9 @@
 
   greeter_config = {
     branding: {
-      background_images: "mock/backgrounds",
-      logo: "mock/logo.png",
-      user_image: "mock/default_avatar.png"
+      background_images: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/wallpaper.jpg",
+      logo: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/logo.png",
+      user_image: "https://raw.githubusercontent.com/chemo-project/lightdm-webkit2-mockup/blob/master/res/profile.png"
     },
     greeter: {
       debug_mode: true,

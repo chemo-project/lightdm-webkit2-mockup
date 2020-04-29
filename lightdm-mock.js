@@ -6,7 +6,7 @@
     {
       display_name: "Eagle Mcfly",
       home_directory: "/home/mcfly",
-      image: "mock/res/profile1",
+      image: "mock/res/profile1.jpg",
       language: "en_US",
       layout: null,
       logged_in: false,
@@ -16,7 +16,7 @@
     {
       display_name: "Sparky Dogson",
       home_directory: "/home/sparky",
-      image: "mock/res/profile2",
+      image: "mock/res/profile2.jpg",
       language: "en_UK",
       layout: null,
       logged_in: false,
@@ -26,7 +26,7 @@
     {
       display_name: "Elicha Deering",
       home_directory: "/home/deering",
-      image: "mock/res/profile3",
+      image: "mock/res/profile3.jpg",
       language: "en_US",
       layout: null,
       logged_in: false,

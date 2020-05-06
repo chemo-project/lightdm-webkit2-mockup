@@ -45,8 +45,8 @@ window.lightdm =
 
 	sessions			: sessions
 
-	set_language		: (language) -> true
+	set_language		: (language) -> console.log "language set to", language
 	
-	start_session		: (session) -> false # lacking docmentation
+	start_session		: (session) -> console.log "Session #{session} started"
 
 	users				: users
